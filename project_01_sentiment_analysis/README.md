@@ -16,7 +16,3 @@ This involves:
 
 * `SageMaker Project.ipynb` - Jupyter Notebook that walks through the entire project.
 * `index.html` - HTML file where user submits the review.
-
-## Architecture
-
-<img src=\"Web App Diagram.svg\">
